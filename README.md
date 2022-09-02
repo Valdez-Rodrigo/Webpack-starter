@@ -1,7 +1,7 @@
 # Webpack-starter
 Este es el cascaron de mis aplicaciones que usen webpack
 
-···NOTAS:
+NOTAS:
 Recuerden reconstruir los modulos de Node
 npm install y npm run build
 
